@@ -1,0 +1,58 @@
+/Users/jonathansonnek/Library/Java/JavaVirtualMachines/openjdk-25.0.2/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=58211 -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/jonathansonnek/Documents/GitHub/week-13-program-2-fleet-of-bicycles-app-jsonnek/out/production/Fleet of Bicycles APP Main
+How many bicycles would you like to enter? (1-6)
+2
+
+--- Bicycle 1 ---
+Enter the cadence of the bicycle:
+45
+Enter the gear of the bicycle:
+3
+Enter the average speed of the bicycle:
+17
+Enter the type of the bicycle:
+Trek
+Enter your name:
+Jon
+
+--- Bicycle 2 ---
+Enter the cadence of the bicycle:
+60
+Enter the gear of the bicycle:
+6
+Enter the average speed of the bicycle:
+21
+Enter the type of the bicycle:
+Schwinn
+Enter your name:
+Eli
+
+--- Your Bicycles ---
+
+Bicycle 1:
+Jon owns this Trek bicycle.
+Currently, we are in gear 3 and going 17 MPH.
+The cadence is 45 RPM.
+
+Bicycle 2:
+Eli owns this Schwinn bicycle.
+Currently, we are in gear 6 and going 21 MPH.
+The cadence is 60 RPM.
+Would you like to calculate the number of calories you burned? (y/n)
+y
+Which bike did you ride? (1-2)
+2
+Please enter your weight (lbs):
+145
+Please enter your height (in):
+60
+Please enter your age (years):
+14
+How long did you ride the bicycle? (hr)
+.25
+Enter your biological sex (m/f):
+m
+You burned approximately 204.5 calories!
+Thank you for using the Bicycle APP!
+
+Process finished with exit code 0
+
